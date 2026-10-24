@@ -1,8 +1,13 @@
 # 오케스트레이션
 
 > 상위 가지: [05. OS·드라이버·클러스터 운영](./README.md)
+> 이전: [컨테이너](./03-containers.md) · 다음: [모니터링·로그](./05-observability.md)
 
 **키워드:** Kubernetes, GPU Operator, Slurm, GPU 분할 MIG
+
+## 왜 필요해졌나
+
+_이 주제가 아래 층의 어떤 한계나 문제 때문에 생겨났는지 공부하면서 적어 보세요._
 
 ## 공부할 질문
 

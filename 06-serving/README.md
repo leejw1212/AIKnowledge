@@ -40,6 +40,15 @@ mindmap
       토큰 간 지연 TPOT
       처리량
       동시 사용자 수
+    여러 모델·여러 부서 운영
+      모델별 GPU 배분
+      LoRA 어댑터 서빙
+      우선순위와 공정성
+    RAG와 주변 시스템
+      임베딩 모델
+      벡터 데이터베이스
+      문서 수집 파이프라인
+      에이전트·도구 호출
 ```
 
 ## 주제
@@ -52,3 +61,5 @@ mindmap
 | [추론 최적화](./04-optimization.md) | 양자화, 연속 배칭, PagedAttention, 프리픽스 캐싱, 추측 디코딩 |
 | [API·게이트웨이](./05-api-gateway.md) | OpenAI 호환 API, 인증·사용량 제한, 로드밸런싱, 사용자 UI |
 | [성능 지표와 벤치마크](./06-performance-metrics.md) | TTFT, 토큰 간 지연 TPOT, 처리량, 동시 사용자 수 |
+| [여러 모델·여러 부서 운영](./07-multi-model-tenancy.md) | 모델별 GPU 배분, LoRA 어댑터 서빙, 우선순위와 공정성 |
+| [RAG와 주변 시스템](./08-rag-ecosystem.md) | 임베딩 모델, 벡터 데이터베이스, 문서 수집 파이프라인, 에이전트·도구 호출 |

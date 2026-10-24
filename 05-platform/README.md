@@ -38,6 +38,16 @@ mindmap
       BMC
       IPMI·Redfish
       펌웨어 업데이트
+    성능 분석
+      Nsight Systems
+      Nsight Compute
+      perf·top
+      병목 찾기 방법론
+    인프라 자동화
+      PXE 네트워크 부팅
+      Ansible
+      코드형 인프라 IaC
+      설정 표준화
 ```
 
 ## 주제
@@ -50,3 +60,5 @@ mindmap
 | [오케스트레이션](./04-orchestration.md) | Kubernetes, GPU Operator, Slurm, GPU 분할 MIG |
 | [모니터링·로그](./05-observability.md) | DCGM, Prometheus, Grafana, 로그 수집 |
 | [펌웨어·원격 관리](./06-firmware-bmc.md) | BMC, IPMI·Redfish, 펌웨어 업데이트 |
+| [성능 분석](./07-performance-profiling.md) | Nsight Systems, Nsight Compute, perf·top, 병목 찾기 방법론 |
+| [인프라 자동화](./08-infrastructure-automation.md) | PXE 네트워크 부팅, Ansible, 코드형 인프라 IaC, 설정 표준화 |

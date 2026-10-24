@@ -32,6 +32,16 @@ mindmap
       DGX
       랙 스케일 NVL72
       OEM 서버
+    GPU 전력·클럭 관리
+      TDP
+      전력 제한 power capping
+      DVFS
+      열 스로틀링
+    하드웨어 신뢰성 RAS
+      ECC 메모리
+      XID 오류
+      행 재매핑
+      부품 고장률
 ```
 
 ## 주제
@@ -43,3 +53,5 @@ mindmap
 | [GPU 간 연결](./03-gpu-interconnect.md) | PCIe, NVLink, NVSwitch |
 | [서버 구성 요소](./04-server-components.md) | HGX 보드, CPU·시스템 메모리, NIC, 로컬 NVMe, 전원 공급 장치 |
 | [제품 형태](./05-form-factors.md) | HGX, DGX, 랙 스케일 NVL72, OEM 서버 |
+| [GPU 전력·클럭 관리](./06-power-thermal-management.md) | TDP, 전력 제한 power capping, DVFS, 열 스로틀링 |
+| [하드웨어 신뢰성 RAS](./07-reliability-ras.md) | ECC 메모리, XID 오류, 행 재매핑, 부품 고장률 |

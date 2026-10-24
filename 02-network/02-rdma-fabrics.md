@@ -1,8 +1,13 @@
 # 고성능 GPU 네트워크
 
 > 상위 가지: [02. 네트워크](./README.md)
+> 이전: [네트워크 기초](./01-network-basics.md) · 다음: [토폴로지](./03-topology.md)
 
 **키워드:** RDMA, InfiniBand, RoCE, GPUDirect RDMA
+
+## 왜 필요해졌나
+
+_이 주제가 아래 층의 어떤 한계나 문제 때문에 생겨났는지 공부하면서 적어 보세요._
 
 ## 공부할 질문
 

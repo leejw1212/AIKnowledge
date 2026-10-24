@@ -29,6 +29,11 @@ mindmap
       백업 정책
       스냅샷
       복구 목표 RPO·RTO
+    파일시스템 내부
+      inode와 블록
+      페이지 캐시
+      저널링
+      ext4·XFS
 ```
 
 ## 주제
@@ -40,3 +45,4 @@ mindmap
 | [공유 스토리지](./03-shared-storage.md) | NFS, 병렬 파일시스템, 오브젝트 스토리지 S3 |
 | [모델 파일 관리](./04-model-artifact-management.md) | 가중치 포맷 safetensors, 모델 저장소, 버전 관리 |
 | [백업·재해 복구](./05-backup-dr.md) | 백업 정책, 스냅샷, 복구 목표 RPO·RTO |
+| [파일시스템 내부](./06-filesystem-internals.md) | inode와 블록, 페이지 캐시, 저널링, ext4·XFS |
