@@ -23,6 +23,9 @@ CPU, GPU, NIC, SSD가 각자 따로 있으면 서로 데이터를 주고받는 �
 
 ## B300 서버와의 연결
 
+GPU와 CPU 사이는 PCIe Gen6로, GPU끼리는 NVLink 5로 연결됩니다. PCIe Gen6 x16이 양방향 합 약 256 GB/s인 반면 NVLink는 GPU당 1.8 TB/s로 약 7배 빠릅니다. 그래서 GPU 사이의 데이터는 CPU와 PCIe를 거치지 않고 NVLink로 직접 오갑니다. 서버에는 GPU 8장 외에도 NIC 8개, DPU 2개, NVMe 디스크 10개(DGX 기준)가 PCIe로 붙어 있습니다.
+
+_근거: [B300 사양 정리](../B300.md)_
 
 ## 참고 자료
 
