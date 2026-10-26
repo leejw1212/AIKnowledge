@@ -26,6 +26,10 @@
 
 ## 참고 자료
 
+- [설명: 전기와 반도체](./lessons/01-electricity-semiconductor.md) (먼저 읽기)
+- 영상: [Crash Course Computer Science #2 Electronic Computing](https://www.youtube.com/watch?v=LN0ucKNX0hc) 기계식 릴레이와 진공관에서 트랜지스터로 넘어온 역사 (영어, 자막 있음, 약 10분)
+- 책: 찰스 펫졸드, 『CODE 코드』 전기 회로와 스위치에서 출발해 컴퓨터를 쌓아 올리는 입문서. 00 가지 전체의 교과서로 쓸 만합니다.
+- 실습: [Nand2Tetris](https://www.nand2tetris.org/) NAND 게이트 하나에서 컴퓨터 전체를 직접 만들어 보는 무료 과정. 다음 주제 디지털 논리부터 본격적으로 쓰입니다.
 
 ## 메모
 
