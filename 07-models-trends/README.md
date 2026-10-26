@@ -4,6 +4,8 @@
 
 [전체 지도로 돌아가기](../README.md)
 
+> 실제로 판단할 때는 [도입·업그레이드 판단 가이드](../UPGRADE.md)를 따라가세요. 계산 도구 `tools/fit_check.py`와 [판단 기록 템플릿](../decisions/TEMPLATE.md)이 함께 있습니다.
+
 ## 세부 마인드맵
 
 ```mermaid
